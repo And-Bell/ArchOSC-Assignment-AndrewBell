@@ -1,11 +1,63 @@
 body {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
-h1 {
-    color: #a11212;
+h1{
+    color: #000000;
+    font-size: 2rem;
 }
 
-h2 {
-    color: #a11212;
+p1 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p2 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p3 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p4 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p5 {
+    color: #000000;
+    font-size: 1rem;;
+}
+
+p6 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p7 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p8 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p9 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p10 {
+    color: #000000;
+    font-size: 1rem;
+}
+
+p11 {
+    color: #000000;
+    font-size: 2rem;
 }
